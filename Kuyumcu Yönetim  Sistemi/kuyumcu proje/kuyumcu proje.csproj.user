@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Fatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gecis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oturumac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Satis Goruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Urunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

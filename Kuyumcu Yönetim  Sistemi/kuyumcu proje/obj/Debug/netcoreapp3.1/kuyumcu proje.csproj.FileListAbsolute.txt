@@ -1,0 +1,112 @@
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.exe
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.deps.json
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.runtimeconfig.json
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.runtimeconfig.dev.json
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.dll
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.pdb
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csprojAssemblyReference.cache
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.AssemblyInfo.cs
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.dll
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.pdb
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.genruntimeconfig.cache
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Properties.Resources.resources
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.oturumac.resources
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Urunler.resources
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Fatura.resources
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.gecis.resources
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Musteriler.resources
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.CopyComplete
+C:\Users\ismai\Desktop\kuyumcu proje\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Satis_Goruntule.resources
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.exe
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.deps.json
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.runtimeconfig.json
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.runtimeconfig.dev.json
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.dll
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.pdb
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csprojAssemblyReference.cache
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Fatura.resources
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.gecis.resources
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Musteriler.resources
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.oturumac.resources
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Properties.Resources.resources
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Satis_Goruntule.resources
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Urunler.resources
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.AssemblyInfo.cs
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.CopyComplete
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.dll
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.pdb
+C:\Users\ismai\Desktop\182523313_İsmailÖzdoğan\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.genruntimeconfig.cache
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.exe
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.deps.json
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.runtimeconfig.json
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.runtimeconfig.dev.json
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.dll
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.pdb
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csprojAssemblyReference.cache
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Fatura.resources
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.gecis.resources
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Musteriler.resources
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.oturumac.resources
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Properties.Resources.resources
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Satis_Goruntule.resources
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Urunler.resources
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.AssemblyInfo.cs
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.CopyComplete
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.dll
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.pdb
+C:\Users\ismai\Desktop\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.genruntimeconfig.cache
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.exe
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.deps.json
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.runtimeconfig.json
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.runtimeconfig.dev.json
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.dll
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\kuyumcu proje.pdb
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csprojAssemblyReference.cache
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Fatura.resources
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.gecis.resources
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Musteriler.resources
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.oturumac.resources
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Properties.Resources.resources
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Satis_Goruntule.resources
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu_proje.Urunler.resources
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.GenerateResource.cache
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.AssemblyInfo.cs
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.CoreCompileInputs.cache
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.csproj.CopyComplete
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.dll
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.pdb
+C:\Users\ismai\Desktop\görsel programlama c#\Kuyumcu Sistemi Otomasyonu\kuyumcu proje\obj\Debug\netcoreapp3.1\kuyumcu proje.genruntimeconfig.cache
